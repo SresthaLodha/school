@@ -1,0 +1,40 @@
+#video{
+    height: 500px;
+    width:100%;
+    border:none;
+}
+#contact iframe
+{
+    width: 100%;
+}
+#campus img{
+    width:100%;
+}
+#campus p{
+    margin-left: 20px;
+}
+.campusdiv{
+    border:1px solid grey;
+}
+.Achievements{
+    border-radius: 10px;
+    padding:6px 22px;
+    font-size: 20px;
+    margin-bottom: 15px;
+
+}
+.Achievements i {
+
+    float:right;
+}
+#achiever1 span{
+    color:orange;
+    
+}
+.BOOK{
+
+    margin-bottom: 20px;
+}
+iframe{
+    width:100%;
+}
